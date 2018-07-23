@@ -1,0 +1,8 @@
+.delete-btn {
+	float: right;
+	margin-right: 30px;
+}
+
+li {
+	cursor: pointer;
+}
