@@ -11,4 +11,4 @@ npm start
 npm run build
 ```
 
-[点击查看效果]( https://zhchi-me.github.io/react-todolist/build/)
+[点击查看效果]( https://charleszhang6.github.io/react-todolist/build/)
