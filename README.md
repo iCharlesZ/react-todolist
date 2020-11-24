@@ -1,5 +1,7 @@
 # react-todolist
 
+[点击查看效果]( https://iCharlesZ.github.io/react-todolist/build/)
+
 ``` bash
 # install dependencies
 npm install
@@ -10,5 +12,3 @@ npm start
 # build for production with minification
 npm run build
 ```
-
-[点击查看效果]( https://charleszhang6.github.io/react-todolist/build/)
